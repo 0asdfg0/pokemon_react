@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/pokemon_react/static/css/main.2012355c.chunk.css",
+    "main.js": "/pokemon_react/static/js/main.0894b6e9.chunk.js",
+    "main.js.map": "/pokemon_react/static/js/main.0894b6e9.chunk.js.map",
+    "runtime-main.js": "/pokemon_react/static/js/runtime-main.b267b22c.js",
+    "runtime-main.js.map": "/pokemon_react/static/js/runtime-main.b267b22c.js.map",
+    "static/js/2.3e6c5eb4.chunk.js": "/pokemon_react/static/js/2.3e6c5eb4.chunk.js",
+    "static/js/2.3e6c5eb4.chunk.js.map": "/pokemon_react/static/js/2.3e6c5eb4.chunk.js.map",
+    "index.html": "/pokemon_react/index.html",
+    "precache-manifest.c17cfbbbe698f23fa95be675135053a3.js": "/pokemon_react/precache-manifest.c17cfbbbe698f23fa95be675135053a3.js",
+    "service-worker.js": "/pokemon_react/service-worker.js",
+    "static/css/main.2012355c.chunk.css.map": "/pokemon_react/static/css/main.2012355c.chunk.css.map",
+    "static/js/2.3e6c5eb4.chunk.js.LICENSE.txt": "/pokemon_react/static/js/2.3e6c5eb4.chunk.js.LICENSE.txt",
+    "static/media/001.png": "/pokemon_react/static/media/001.9ba4d684.png",
+    "static/media/004.png": "/pokemon_react/static/media/004.9be8f2a8.png",
+    "static/media/007.png": "/pokemon_react/static/media/007.7b9ddf69.png",
+    "static/media/010.png": "/pokemon_react/static/media/010.799de73e.png",
+    "static/media/Pokemon-logo.png": "/pokemon_react/static/media/Pokemon-logo.68609781.png",
+    "static/media/App.css": "/pokemon_react/static/media/battle.d7a66fc6.jpg",
+    "static/media/logo.svg": "/pokemon_react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b267b22c.js",
+    "static/js/2.3e6c5eb4.chunk.js",
+    "static/css/main.2012355c.chunk.css",
+    "static/js/main.0894b6e9.chunk.js"
+  ]
+}
