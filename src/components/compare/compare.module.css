@@ -1,0 +1,15 @@
+.battle{
+    background-image: url(../../images/battle.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    display: flex;
+    margin: 1em auto;
+    padding: 1em;
+    justify-content: space-around;
+    min-height: 400px;
+  }
+
+  #pokemon{
+    margin: 0 1em;
+  }

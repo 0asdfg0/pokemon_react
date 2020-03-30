@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    height: 90px;
+  display: flex;
+  background-color: white;
+  }
+  
+  .headerLogo{
+    width: 30%;
+    text-align: center;
+  }
+  .headerLogo img{
+    height: 100%;
+  }
+  .headerNavbar{
+    width: 60%;
+  }
+  .headerNavbar li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 1em;
+    line-height: 90px;
+  }
+  .headerNavbar li a{
+    text-decoration: none;
+    color: black;
+  }

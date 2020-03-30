@@ -1,0 +1,14 @@
+.historyPart{
+    width: 80%;
+    margin: 1em auto;
+    padding: 1em;
+    background-color: white;
+    border-radius: 5px;
+  }
+  .historyPart h2{
+    font-family: Flexo;
+    color: cadetblue;
+  }
+  .historyPart p{
+    font-family: Arial, Helvetica, sans-serif;
+  }

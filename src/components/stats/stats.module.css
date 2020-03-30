@@ -1,0 +1,15 @@
+
+  .values{
+    padding: 1em;
+    font-family: Flexo;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: white;
+    background-color: rgba(0,0,0, 0.4);
+    margin: 1em;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-radius: 5px;
+  
+  }
